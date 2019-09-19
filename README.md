@@ -17,10 +17,16 @@ Convert your picture with text to pdf.
 
 ```javascript
 
-/* First, Install the needed packages */
+/* In order to use */
 npm install
 
-/* Then start Node */
 npm start
+
+```
+Open in browser
+
+```javascript
+
+http://localhost:5000/
 
 ```
