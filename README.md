@@ -4,7 +4,11 @@ Convert your picture with text to pdf.
 
 ## Node packages
 
-Used ejs, multer, express, tesseract.js and nodemon
+- ejs 
+- multer 
+- express 
+- tesseract.js 
+- nodemon
 
 #### Requirements
 
